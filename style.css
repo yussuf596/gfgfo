@@ -1,0 +1,20 @@
+body{
+  background-color:#008B8B;
+  text-align:center;
+}
+.text_block{
+  background-color: lightgray;
+  width: 0100%;
+height: 500px;
+float: left;
+border-radius: 20px;
+  
+}
+img{
+  width: 80%;
+  border-radius: 20px;
+}
+.box{
+  width: 040%;
+height: 0400px;
+}
